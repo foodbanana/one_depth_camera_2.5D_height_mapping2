@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libany_node.so -o /home/dyros21/260126_tw_ws_2_backup/devel/lib/libany_node.so CMakeFiles/any_node.dir/src/Node.cpp.o 

@@ -1,0 +1,8 @@
+prefix=/home/dyros21/260126_tw_ws_2_backup/devel
+
+Name: point_cloud_io
+Description: Description of point_cloud_io
+Version: 0.3.22
+Cflags: -I/home/dyros21/260126_tw_ws_2_backup/src/point_cloud_io/include
+Libs: -L${prefix}/lib 
+Requires: pcl_ros roscpp sensor_msgs

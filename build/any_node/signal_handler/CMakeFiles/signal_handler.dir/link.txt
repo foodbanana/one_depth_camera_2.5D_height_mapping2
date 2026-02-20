@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libsignal_handler.so -o /home/dyros21/260126_tw_ws_2_backup/devel/lib/libsignal_handler.so CMakeFiles/signal_handler.dir/src/SignalHandler.cpp.o 
